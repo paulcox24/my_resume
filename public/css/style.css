@@ -1,0 +1,20 @@
+body{
+  background-color: #444;
+}
+
+#content {
+  height: 100vh;
+}
+
+#footer {
+  text-align: center;
+  font-family: Verdana, Geneva, sans-serif;
+  color: white;
+}
+.resume {
+  margin: 0 auto;
+  display: block;
+  width: 100%;
+  max-width: 768px;
+  height: 100%;
+}
