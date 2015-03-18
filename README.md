@@ -1,2 +1,2 @@
 ## A Sinatra app to hold my resume
-[Check it out](www.paul-resume.herokuapp.com). www.paul-resume.herokuapp.com
+[Check it out](paul-resume.herokuapp.com). paul-resume.herokuapp.com
