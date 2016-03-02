@@ -2,6 +2,6 @@ require 'rubygems'
 require 'sinatra'
 
 get '/' do
-  # redirect '/pdf/PaulResume.pdf'
-  haml '%iframe.resume(src="pdf/PaulResume.pdf")'
+  # redirect '/pdf/Resume2016.pdf'
+  haml '%iframe.resume(src="pdf/Resume2016.pdf")'
 end
